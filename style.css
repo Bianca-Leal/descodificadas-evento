@@ -24,6 +24,5 @@ img.roupas {
 }
 
 header{
-    background-image: url(./imagem/flores.jpg);
-    background-repeat: no-repeat;
+    background-image: url(/imagem/flores.jpg);
 }
