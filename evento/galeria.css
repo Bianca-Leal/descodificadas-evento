@@ -7,17 +7,8 @@ body{
 }
 body header{
     color: black;
-    background-image: url(./imagem/flores.jpg);
+    background-image: url(./imagem/lotus.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
-    bottom: 0;
-    height: 100%;
-    left: 0;
-    overflow: hidden;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 100%;
     text-align: center;
 }
 
